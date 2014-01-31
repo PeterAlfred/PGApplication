@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+       File gemaakt door Peter Alfred.
+       30 januari 2014
+-->
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" 
+    id = "com.phonegap.pgapplication" version = "1.0.0">
+	
+    <name>PG Application database template demo</name>
+    <description>Demo App templates wegschrijft database uit phonegap build boek.</description>
+    <author href = "http://www.soluza.nl" email = "peter.luteijn@soluza.nl">Peter Alfred</author>
+    <feature name = "http://api.phonegap.com/1.0/device"/>
+    <preference name = "phonegap-version" value = "2.9.0"/>
+    <preference name = "orientation" value = "default"/>
+    <preference name = "target-device" value = "universal"/>
+    <preference name = "fullscreen" value = "false"/>
+    <icon src = "icon.png"/>
+</widget>
